@@ -1,24 +1,24 @@
-# 🎁 Sorteio de Amigo Secreto  
+# 🎲 Jogo do Amigo Secreto  
 
-Projeto divertido e interativo para realizar o **Sorteio de Amigo Secreto**, desenvolvido em **HTML, CSS e JavaScript**. Para praticar lógica de programação e manipulação do DOM.  
-
----
-
-## ✨ Funcionalidades  
-
-✅ Adicionar amigos à lista  
-✅ Impedir nomes duplicados  
-✅ Exibir os nomes adicionados  
-✅ Sortear um amigo secreto aleatoriamente  
-✅ Mostrar o resultado na tela  
+Projeto desenvolvido como parte do **Challenge de Iniciante em Programação - Alura + Oracle ONE**.  
+O objetivo é aplicar os fundamentos de **lógica de programação** em JavaScript, simulando o famoso sorteio de “Amigo Secreto”.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas  
+## 📌 Funcionalidades
+- ➕ **Adicionar amigos** em uma lista.  
+- 📝 **Exibir a lista** completa de participantes.  
+- 🎰 **Sortear um amigo aleatoriamente**.  
+- 🚫 Validação de entrada: impede nomes vazios ou duplicados.  
 
-- 🌐 **HTML5**  
-- 🎨 **CSS3**  
-- ⚡ **JavaScript (ES6+)**  
+---
+
+## 🧠 Conceitos trabalhados
+- Declaração e manipulação de **arrays**.  
+- Criação de **funções reutilizáveis**.  
+- Uso de **condicionais (if/else)**.  
+- Estruturas de **repetição (loops)**.  
+- Geração de valores aleatórios com `Math.random()`.  
 
 ---
 
