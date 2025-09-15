@@ -24,3 +24,11 @@ O objetivo é aplicar os fundamentos de **lógica de programação** em JavaScri
 
 ## 📸 Demonstração  
 ![Demonstração do site](demonstracaoamigogsecreto.gif)
+
+---
+
+## ▶️ Como jogar
+1. Abra o https://sorteio-amigo-secreto-one-nine.vercel.app/ no navegador.  
+2. Digite o nome de cada participante no campo de texto e clique em **Adicionar**.  
+3. Confira a lista de amigos que vai sendo formada abaixo.  
+4. Clique em **Sortear** e veja quem foi o amigo secreto escolhido! 🎉
