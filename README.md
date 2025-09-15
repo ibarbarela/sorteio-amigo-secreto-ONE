@@ -23,3 +23,4 @@ O objetivo é aplicar os fundamentos de **lógica de programação** em JavaScri
 ---
 
 ## 📸 Demonstração  
+![Demonstração do site](demonstracaoamigogsecreto.gif)
